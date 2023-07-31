@@ -38,4 +38,4 @@ Therefore, we recommend using the Logistic Regression model with the selected pa
 Based on our findings, the Logistic Regression model with hyperparameters (C: 0.1, multi_class: auto, penalty: l2, solver: newton-cg, verbose: 0) performed the best with an accuracy of 0.8973. We recommend using this model for predicting customer subscriptions for term deposits as it outperformed the other classifiers. However, it's important to continuously monitor and update the model as new data becomes available to ensure its predictive power remains optimal.
 
 ## Notebook Link:
-For a more detailed view of the project, including data exploration, preprocessing, model training, evaluation, and hyperparameter tuning, please refer to the Jupyter Notebook available at github.com/vmcguire/bank.
+For a more detailed view of the project, including data exploration, preprocessing, model training, evaluation, and hyperparameter tuning, please refer to the Jupyter Notebook available at [View prompt_III.ipynb](https://github.com/vmcguire/practicalassignment3/blob/main/prompt_III.ipynb).
